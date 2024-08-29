@@ -1,0 +1,3 @@
+# ELR - Локальный сервер для ресурспака! (by l1ratch)
+server-port: 8000
+resource-pack-file: "resourcepack.zip"

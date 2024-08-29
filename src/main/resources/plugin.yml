@@ -1,0 +1,6 @@
+name: EasyLocalResoursepack
+version: '${project.version}'
+main: ru.l1ratch.easylocalresoursepack.EasyLocalResoursepack
+load: STARTUP
+api-version: 1.13
+authors: [ l1ratch ]
